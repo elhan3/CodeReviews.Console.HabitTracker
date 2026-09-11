@@ -28,6 +28,16 @@ When the program is started, if table doesn't already exist, new table is create
 <img width="630" height="66" alt="Screenshot 2026-09-11 111430" src="https://github.com/user-attachments/assets/a3582542-b6ed-4459-97cf-b6bfea577f31" />
 <img width="646" height="71" alt="Screenshot 2026-09-11 111444" src="https://github.com/user-attachments/assets/5a3fde28-1aa3-41a7-a4e3-1eeebeaa951c" />
 
+<h2>Experience</h2>
+<p>
+  Before doing this project, I went through the tutorial series "Introduction to Object Oriented Programming" and "Introduction to SQL", where I got to refresh
+my knowledge of OOP concepts and basics of SQLite, gaining a bit different perspective on things I'm already familliar with. "Introduction to OOP" series motivated me to make use of basic Spectre library features in this project. After finishing the first version of this project, I went back and used parametrized queries to make application more secure.
+</p>
+<p>
+  In the future, I might consider adding new functionalities to this app, like making it possible for the user to create new habits to track.
+</p> 
+
+
 
 
 
